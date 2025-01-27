@@ -46,20 +46,6 @@ I need a job to support myself. If you also need a partner, please contact me vi
 <table frame=void>
 <tr>
     <td style="vertical-align: top">
-        <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=RennAlt&repo=readme-theme&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=000000&hide_border=true&show_owner=true">
-    </td>
-    <td>
-        <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=RennAlt&repo=Kernel_CI&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=000000&hide_border=true&show_owner=true">
-    </td>
-    <td>
-        <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=SnowsProject&repo=kernel_manifests&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=000000&hide_border=true&show_owner=true">
-    </td>
-</tr>
-</table>
-
-<table frame=void>
-<tr>
-    <td style="vertical-align: top">
         <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RennAlt&theme=transparent">
     </td>
     <td>
