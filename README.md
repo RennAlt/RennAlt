@@ -1,5 +1,5 @@
 <!---
-<img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shenprjkt&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
+<img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=RennAlt&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
 
 
 
@@ -21,7 +21,7 @@ I need a job to support myself. If you also need a partner, please contact me vi
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-  <a href="https://github.com/shenprjkt"><img alt="Github" title="Arimakana Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/RennAlt"><img alt="Github" title="Arimakana Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="mailto:shenprjktplayground@gmail.com"><img alt="Gmail" title="Shandy Reynaldi Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://t.me/Kanarimalt"><img alt="Telegram" title="Arimakana Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
  </p>
@@ -35,10 +35,10 @@ I need a job to support myself. If you also need a partner, please contact me vi
 <table frame=void>
 <tr>
     <td style="vertical-align: top">
-        <img align="left" src="https://streak-stats.demolab.com?user=shenprjkt&theme=highcontrast&hide_border=true&border_radius=1)](https://git.io/streak-stats">
+        <img align="left" src="https://streak-stats.demolab.com?user=RennAlt&theme=highcontrast&hide_border=true&border_radius=1)](https://git.io/streak-stats">
     </td>
     <td>
-        <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shenprjkt&include_all_commits=true&show_icons=true&theme=highcontrast&count_private=true&hide_border=true">
+        <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=RennAlt&include_all_commits=true&show_icons=true&theme=highcontrast&count_private=true&hide_border=true">
     </td>
 </tr>
 </table>
@@ -46,10 +46,10 @@ I need a job to support myself. If you also need a partner, please contact me vi
 <table frame=void>
 <tr>
     <td style="vertical-align: top">
-        <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=shenprjkt&repo=readme-theme&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=000000&hide_border=true&show_owner=true">
+        <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=RennAlt&repo=readme-theme&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=000000&hide_border=true&show_owner=true">
     </td>
     <td>
-        <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=shenprjkt&repo=Kernel_CI&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=000000&hide_border=true&show_owner=true">
+        <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=RennAlt&repo=Kernel_CI&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=000000&hide_border=true&show_owner=true">
     </td>
     <td>
         <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=SnowsProject&repo=kernel_manifests&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=000000&hide_border=true&show_owner=true">
@@ -60,10 +60,10 @@ I need a job to support myself. If you also need a partner, please contact me vi
 <table frame=void>
 <tr>
     <td style="vertical-align: top">
-        <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shenprjkt&theme=transparent">
+        <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RennAlt&theme=transparent">
     </td>
     <td>
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenprjkt&layout=compact&theme=highcontrast&count_private=true&hide_border=true">
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RennAlt&layout=compact&theme=highcontrast&count_private=true&hide_border=true">
     </td>
 </tr>
 </table>
@@ -80,7 +80,7 @@ My principle: when studying or working, I will never laugh at people who are try
  
 and don't forget to credit, thank you for the inspiration : 
 
-[![Contributor](https://contrib.rocks/image?repo=shenprjkt/shenprjkt)](https://github.com/shenprjkt)
+[![Contributor](https://contrib.rocks/image?repo=shenprjkt/RennAlt)](https://github.com/RennAlt)
 [![Contributor](https://contrib.rocks/image?repo=keiko233/keiko233)](https://github.com/keiko233)
 [![Contributor](https://contrib.rocks/image?repo=ReallySnow/ReallySnow)](https://github.com/ReallySnow)
 [![Contributor](https://contrib.rocks/image?repo=JohnKun136NVCP/JohnKun136NVCP)](https://github.com/JohnKun136NVCP)
