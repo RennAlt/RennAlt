@@ -12,7 +12,7 @@
 -->
 
 # <div align=center>Welcome to my profile!</div>
-
+<!---
 <table frame=void>
 <tr>
     <td Hi, I'm Ren. I'm always use "RenzAlt" to submitting code or accounts. Plz DO NOT call me "Renz".
@@ -31,6 +31,7 @@ I need a job to support myself. If you also need a partner, please contact me vi
     </td>
 </tr>
 </table>
+-->
 
 <table frame=void>
 <tr>
