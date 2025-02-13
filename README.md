@@ -75,16 +75,6 @@ and don't forget to credit, thank you for the inspiration :
 </tr>
 </table>
 
-> \ KernelCI 
-> \
-> \
-> \
-> \
-> \
-> \
-> \
-> \
-> 
 
 <!--
 ### 💻 Environment
